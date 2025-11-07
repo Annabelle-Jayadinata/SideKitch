@@ -1,0 +1,135 @@
+{
+  "recipes": [
+    {
+      "recipe_name": "Spaghetti Aglio e Olio",
+      "cuisine": "Italian",
+      "servings": 2,
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "ingredients": [
+        {
+          "name": "Spaghetti",
+          "quantity": 200,
+          "unit": "grams",
+          "allergens": ["gluten"]
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "prep": "sliced",
+          "allergens": []
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 4,
+          "unit": "tablespoons",
+          "allergens": []
+        },
+        {
+          "name": "Red Pepper Flakes",
+          "quantity": 1,
+          "unit": "teaspoon",
+          "allergens": []
+        },
+        {
+          "name": "Parsley",
+          "quantity": 2,
+          "unit": "tablespoons",
+          "prep": "chopped",
+          "allergens": []
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "teaspoon",
+          "allergens": []
+        }
+      ],
+      "instructions": [
+        "Boil a large pot of salted water and cook spaghetti according to package instructions.",
+        "While pasta is cooking, heat olive oil in a pan over medium heat.",
+        "Add garlic and red pepper flakes to the pan and cook until garlic is golden brown (about 2 minutes).",
+        "Drain the pasta, reserving some pasta water.",
+        "Add the drained pasta to the pan with the garlic and olive oil, tossing to coat. Add some reserved pasta water if needed.",
+        "Stir in chopped parsley and season with salt.",
+        "Serve with extra parsley and grated cheese, if desired."
+      ],
+      "notes": "Great with a side of garlic bread or a simple salad!",
+      "dietary_restrictions": {
+        "gluten_free": false,
+        "vegan": true,
+        "dairy_free": true,
+        "nut_free": true,
+        "soy_free": true
+      },
+      "allergens": [
+        "gluten"
+      ]
+    },
+    {
+      "recipe_name": "Vegan Tacos",
+      "cuisine": "Mexican",
+      "servings": 4,
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "ingredients": [
+        {
+          "name": "Taco Shells",
+          "quantity": 8,
+          "unit": "pieces",
+          "allergens": ["gluten"]
+        },
+        {
+          "name": "Black Beans",
+          "quantity": 2,
+          "unit": "cups",
+          "allergens": []
+        },
+        {
+          "name": "Corn",
+          "quantity": 1,
+          "unit": "cup",
+          "allergens": []
+        },
+        {
+          "name": "Lettuce",
+          "quantity": 1,
+          "unit": "cup",
+          "prep": "shredded",
+          "allergens": []
+        },
+        {
+          "name": "Avocado",
+          "quantity": 1,
+          "unit": "whole",
+          "allergens": []
+        },
+        {
+          "name": "Salsa",
+          "quantity": 1,
+          "unit": "cup",
+          "allergens": []
+        }
+      ],
+      "instructions": [
+        "Heat taco shells in the oven as per package instructions.",
+        "Warm the black beans and corn in a pan over medium heat.",
+        "Shred lettuce and slice avocado.",
+        "Fill taco shells with black beans, corn, lettuce, and avocado.",
+        "Top with salsa and serve."
+      ],
+      "notes": "You can add vegan cheese or sour cream if you like!",
+      "dietary_restrictions": {
+        "gluten_free": false,
+        "vegan": true,
+        "dairy_free": true,
+        "nut_free": true,
+        "soy_free": true
+      },
+      "allergens": [
+        "gluten"
+      ]
+    }
+  ]
+}
