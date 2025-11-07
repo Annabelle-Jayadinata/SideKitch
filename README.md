@@ -1,27 +1,51 @@
+# 🥕 SideKitch
+### “Become a Dine-amic Duo.”
 
-# Important Links
-- Team milestones (team assignments): https://github.com/StanfordCS194/win25-Team31/milestones
-- Course Syllabus (accurate assignment deadlines and schedule): https://docs.google.com/spreadsheets/d/1Y5Lcy-f3GsL_aUVHTDTYkmbaJQqK7sEhrNU9xM57UpQ/edit?usp=sharing
-- Wiki: https://github.com/StanfordCS194/win25-Team31/wiki
-- Todo List: https://github.com/orgs/StanfordCS194/projects/127
+SideKitch is your kitchen sidekick — helping you cook smarter, waste less, and save time.  
+It keeps track of what’s in your pantry, suggests recipes you can make right now, and automatically builds grocery lists so you never forget an ingredient again.
 
+---
 
-Caleb Matthews was here.
-Annabelle
-Anna
-Febie
-Ben 
+## ⭐ What SideKitch Does
+- **Track your pantry** automatically with receipt scanning + expiration reminders  
+- **Recommend recipes** based on the ingredients you already have  
+- **Save and import recipes** from the web or cookbooks  
+- **Generate smart grocery lists** that subtract what’s already in your kitchen  
 
-Current List of TODO in partial order: 
+SideKitch reduces food waste, saves money, and removes the mental load of meal planning.
 
-1. Everyone : Figure out how on earth to get an ios app up and running, get the basics of swift going on 
-2. Whoever is on UI: start figuring out how to code swift UI stuff and find a few color pallets/ design stuff to float to the team.
-3. Database folks: Decide on a db file format, figure out how to write/read files in IOS, get a general recipe format going and create a few example recipes for everyone to use. (Priority) 
-4. Web Scraper/Parser folks: figure out what libraries we are gonna use to do this task and whether or not we need a web server. IF we need a web server got to get on that hot quick. 
-5. Someone Figure out what AI api we are going to use for start (Note this is just a stopgap for our minimal viable product), needs to be relatively accurate and dependable.
-6. Whole Team (Or whoever is really passionate about it): Float some stick models of UX, i.e here is the home screen, we want this navbar, etc. 
+---
 
-Currently Working On / Interested in:
-- Febie is working on figuring out the standard way of measuring quantities to store in the database. (i.e cups, 1 bannana etc)
-- Ben is working on figuring out what libraries if any we can use for parsing/scraping on ios
-- Anna is working on the recipe parser script (basic functionality is there, but trying to refine and catch more edge cases)
+## 💡 Why It Matters
+The average American wastes **130 lbs of food per year** (~$300).  
+SideKitch helps you use what you already own — and keeps your fridge from becoming a black hole.
+
+---
+
+## 👥 Who It’s For
+- Busy people who need quick meal ideas  
+- Cooking enthusiasts who want to stay organized  
+- Beginners who want simple recipes using what they already have  
+
+---
+
+## 🎯 Our Goal
+Reduce friction in food preparation  
+**while reducing food waste and stress.**
+
+---
+
+## 🚀 Core Features (at a glance)
+- Pantry inventory tracking  
+- Receipt OCR  
+- Ingredient → recipe matching  
+- Smart grocery lists  
+- Personal cookbook  
+
+---
+
+## 📱 The Vision
+A simple, intuitive kitchen assistant that works *with* you — not one that adds more chores.
+
+---
+
